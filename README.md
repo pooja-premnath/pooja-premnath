@@ -1,6 +1,7 @@
-[![MasterHead]()](https://github.com/pooja-premnath)
-<h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">An undergraduate Computer Science and Engineering student working in the domain of Image Processing, Deep Learning and Computer Vision</h3>
+[![Hi, I’m Pooja](https://github.com/pooja-premnath/pooja-premnath/assets/88699435/2db6efd2-c528-46b7-be56-eae302e81ff7)
+](https://github.com/pooja-premnath)
+
+<h3 align="center">I'm an undergraduate Computer Science and Engineering student working in the domain of Image Processing, Deep Learning and Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-premnath&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-premnath" /> </p>
 
@@ -12,11 +13,11 @@
   &nbsp;
   <a href="mailto:pooja2110152@ssn.edu.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="margin-right: 20px;"/></a>
 </p>
-
+<br/>
 
 <h3 align="left">Skills:</h3>
 
-<table>
+<table align='center'>
   <tr>
     <td>
       <h4>Programming Languages:</h4>
