@@ -1,4 +1,4 @@
-
+[![MasterHead]()](https://github.com/pooja-premnath)
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">An undergraduate Computer Science and Engineering student working in the domain of Image Processing, Deep Learning and Computer Vision</h3>
 
@@ -24,6 +24,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 10px"/> </a> 
   &nbsp;
 </p>
+
 
 <h4>Web Development:</h4>
 <p align="left"> 
