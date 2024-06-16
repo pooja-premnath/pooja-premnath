@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">An undergraduate Computer Science and Engineering student working on Image Processing and Computer Vision projects</h3>
+<h3 align="center">An undergraduate Computer Science and Engineering student working in the domain of Image Processing, Deep Learning and Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-premnath&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-premnath" /> </p>
 
